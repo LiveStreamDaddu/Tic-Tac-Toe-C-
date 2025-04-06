@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\aksha\OneDrive\Desktop\badmashi_pro_max\test\test\test.cpp(83,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  test.vcxproj -> C:\Users\aksha\OneDrive\Desktop\badmashi_pro_max\test\x64\Debug\test.exe
